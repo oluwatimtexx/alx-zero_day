@@ -1,2 +1,2 @@
 Second Readme file
-never doing htis from the GUI again
+never doing this from the GUI again
